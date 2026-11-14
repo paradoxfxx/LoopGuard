@@ -1,0 +1,181 @@
+{
+ "A_zeroshot": {
+  "fdia712": {
+   "preFA": 0.5318181818181819,
+   "delay_steps": null,
+   "recovery_steps": null,
+   "alarm_t": 137
+  },
+  "rfdi2": {
+   "preFA": 0.5318181818181819,
+   "delay_steps": null,
+   "recovery_steps": null,
+   "alarm_t": 137
+  },
+  "loadstep1": {
+   "preFA": 0.5318181818181819,
+   "delay_steps": null,
+   "recovery_steps": null,
+   "alarm_t": 137
+  },
+  "clean": {
+   "preFA": 0.9401162790697675,
+   "alarm_t": 137,
+   "clear_t": null,
+   "atk_rate_all": 0.9401162790697675
+  }
+ },
+ "B_inputrecal": {
+  "fdia712": {
+   "preFA": 0.0,
+   "delay_steps": 102,
+   "recovery_steps": null,
+   "alarm_t": 352
+  },
+  "rfdi2": {
+   "preFA": 0.0,
+   "delay_steps": 132,
+   "recovery_steps": null,
+   "alarm_t": 382
+  },
+  "loadstep1": {
+   "preFA": 0.0,
+   "delay_steps": 101,
+   "recovery_steps": null,
+   "alarm_t": 351
+  },
+  "clean": {
+   "preFA": 0.01686046511627907,
+   "alarm_t": 412,
+   "clear_t": 420,
+   "atk_rate_all": 0.01686046511627907
+  }
+ },
+ "D_deploy": {
+  "fdia712": {
+   "preFA": 0.4681818181818182,
+   "delay_steps": null,
+   "recovery_steps": null,
+   "alarm_t": 137
+  },
+  "rfdi2": {
+   "preFA": 0.5318181818181819,
+   "delay_steps": null,
+   "recovery_steps": null,
+   "alarm_t": 137
+  },
+  "loadstep1": {
+   "preFA": 0.10909090909090909,
+   "delay_steps": null,
+   "recovery_steps": null,
+   "alarm_t": 163
+  },
+  "clean": {
+   "preFA": 0.5255813953488372,
+   "alarm_t": 137,
+   "clear_t": 139,
+   "atk_rate_all": 0.5255813953488372
+  }
+ },
+ "deploy_D": {
+  "ao_scaling": [
+   325.624481,
+   332.925293,
+   331.838501,
+   333.996521,
+   325.953827,
+   325.013824,
+   325.11377
+  ],
+  "ao_offset": [
+   -325.39447,
+   -319.920837,
+   -312.841949,
+   -311.77948,
+   -317.55777,
+   -303.638,
+   -129.513092
+  ],
+  "sigma_raw": [
+   0.003071,
+   0.003004,
+   0.003014,
+   0.002994,
+   0.003068,
+   0.003077,
+   0.003076
+  ]
+ },
+ "C_fewshot": {
+  "fdia712": {
+   "preFA": 0.0,
+   "delay_steps": 102,
+   "recovery_steps": null,
+   "alarm_t": 352
+  },
+  "rfdi2": {
+   "preFA": 0.0,
+   "delay_steps": 132,
+   "recovery_steps": null,
+   "alarm_t": 382
+  },
+  "loadstep1": {
+   "preFA": 0.0,
+   "delay_steps": 101,
+   "recovery_steps": null,
+   "alarm_t": 351
+  },
+  "clean": {
+   "preFA": 0.01744186046511628,
+   "alarm_t": 412,
+   "clear_t": 420,
+   "atk_rate_all": 0.01744186046511628
+  }
+ },
+ "deploy_B": {
+  "ao_scaling": [
+   4605.025391,
+   4708.274414,
+   4692.905273,
+   4723.423828,
+   4609.683105,
+   4596.389648,
+   4597.802734
+  ],
+  "ao_offset": [
+   -4601.772949,
+   -4524.36377,
+   -4424.25293,
+   -4409.227539,
+   -4490.944824,
+   -4294.089844,
+   -1831.591675
+  ]
+ },
+ "C2_hilnative": {
+  "fdia712": {
+   "preFA": 0.0,
+   "delay_steps": 125,
+   "recovery_steps": 120,
+   "alarm_t": 375
+  },
+  "rfdi2": {
+   "preFA": 0.0,
+   "delay_steps": 132,
+   "recovery_steps": 2,
+   "alarm_t": 382
+  },
+  "loadstep1": {
+   "preFA": 0.0,
+   "delay_steps": null,
+   "recovery_steps": null,
+   "alarm_t": null
+  },
+  "clean": {
+   "preFA": 0.0,
+   "alarm_t": null,
+   "clear_t": null,
+   "atk_rate_all": 0.0
+  }
+ }
+}

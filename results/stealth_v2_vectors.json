@@ -1,0 +1,62 @@
+[
+ {
+  "target": 706,
+  "shift_pu": 0.012,
+  "delta_P_kW_3ph": 894.0,
+  "bias_v2": {
+   "atk_v706": 0.012,
+   "atk_i_head": -0.08154
+  }
+ },
+ {
+  "target": 706,
+  "shift_pu": 0.024,
+  "delta_P_kW_3ph": 1788.0,
+  "bias_v2": {
+   "atk_v706": 0.024,
+   "atk_i_head": -0.16308
+  }
+ },
+ {
+  "target": 712,
+  "shift_pu": 0.012,
+  "delta_P_kW_3ph": 337.7,
+  "bias_v2": {
+   "atk_v706": 0.00453,
+   "atk_v712": 0.012,
+   "atk_i_head": -0.0308
+  }
+ },
+ {
+  "target": 712,
+  "shift_pu": 0.024,
+  "delta_P_kW_3ph": 675.4,
+  "bias_v2": {
+   "atk_v706": 0.00907,
+   "atk_v712": 0.024,
+   "atk_i_head": -0.06161
+  }
+ },
+ {
+  "target": 718,
+  "shift_pu": 0.012,
+  "delta_P_kW_3ph": 173.9,
+  "bias_v2": {
+   "atk_v706": 0.00233,
+   "atk_v712": 0.00618,
+   "atk_v718": 0.012,
+   "atk_i_head": -0.01586
+  }
+ },
+ {
+  "target": 718,
+  "shift_pu": 0.024,
+  "delta_P_kW_3ph": 347.7,
+  "bias_v2": {
+   "atk_v706": 0.00467,
+   "atk_v712": 0.01235,
+   "atk_v718": 0.024,
+   "atk_i_head": -0.03171
+  }
+ }
+]

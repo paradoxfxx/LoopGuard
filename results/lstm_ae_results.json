@@ -1,0 +1,32 @@
+{
+ "loadstep": {
+  "delay_s": 0.06,
+  "preFA": 0.01,
+  "peak_ratio": 38.7,
+  "fired": true
+ },
+ "v1_fdia712": {
+  "delay_s": null,
+  "preFA": 0.01,
+  "peak_ratio": 13.3,
+  "fired": true
+ },
+ "v2_fdia712_4s": {
+  "delay_s": null,
+  "preFA": 0.01,
+  "peak_ratio": 23.7,
+  "fired": true
+ },
+ "v2_fdia712_8s": {
+  "delay_s": null,
+  "preFA": 0.01,
+  "peak_ratio": 84.5,
+  "fired": true
+ },
+ "v2_fdia718_4s": {
+  "delay_s": 0.01,
+  "preFA": 0.01,
+  "peak_ratio": 10.5,
+  "fired": true
+ }
+}

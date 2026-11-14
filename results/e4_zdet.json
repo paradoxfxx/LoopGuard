@@ -1,0 +1,45 @@
+{
+ "z_detector": {
+  "fdia706": {
+   "detected": true,
+   "delay_s": 0.0,
+   "maxz": 8.81
+  },
+  "fdia712": {
+   "detected": true,
+   "delay_s": 0.0,
+   "maxz": 10.22
+  },
+  "fdia718": {
+   "detected": true,
+   "delay_s": 0.0,
+   "maxz": 12.86
+  },
+  "loadstep0": {
+   "detected": true,
+   "delay_s": 0.043,
+   "maxz": 18.37
+  },
+  "loadstep1": {
+   "detected": true,
+   "delay_s": 0.014,
+   "maxz": 17.79
+  },
+  "rfdi0": {
+   "detected": true,
+   "delay_s": 0.0,
+   "maxz": 11.95
+  },
+  "rfdi1": {
+   "detected": true,
+   "delay_s": 0.0,
+   "maxz": 11.99
+  },
+  "rfdi2": {
+   "detected": true,
+   "delay_s": 0.0,
+   "maxz": 11.66
+  }
+ },
+ "clean_maxz": 5.2040324211120605
+}
